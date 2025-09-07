@@ -6,7 +6,7 @@
   gap: 32px;
 }
 .badges-link {
-  display: block;
+  /* display: block; */
   padding: 8px 16px;
   border: 1px solid;
   border-radius: 8px;
